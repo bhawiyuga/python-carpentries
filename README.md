@@ -2,7 +2,7 @@
 
 Welcome to the Python Software Carpentries training.  Please follow these instructions to set up your environment before the workshop.
 
-Trainer: Adhitya Bhawiyuga (PhD Candidate at UT-ITC)
+### Trainer: Adhitya Bhawiyuga (PhD Candidate at UT-ITC)
 
 ## Prerequisites
 
